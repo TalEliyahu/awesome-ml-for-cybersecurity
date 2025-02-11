@@ -13,6 +13,7 @@ A curated list of amazingly awesome tools and resources related to the use of ma
  - [Tutorials](#-tutorials)
  - [Courses](#-courses)
  - [Miscellaneous](#-miscellaneous)
+ - [Groups](#groups)
 
 ## [↑](#table-of-contents) Contributing
 
@@ -204,6 +205,10 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 * [Convolutional neural network for analyzing pentest screenshots](https://github.com/BishopFox/eyeballer)
 * [Big Data and Data Science for Security and Fraud Detection](http://www.kdnuggets.com/2015/12/big-data-science-security-fraud-detection.html)
 * [StringSifter - a machine learning tool that ranks strings based on their relevance for malware analysis](https://github.com/fireeye/stringsifter)
+
+## [↑](#table-of-contents) Groups  
+
+* AI Security group on [LinkedIn](https://www.linkedin.com/groups/14545517/) and [Twitter](https://x.com/AISecHub)
 
 ## License
 
